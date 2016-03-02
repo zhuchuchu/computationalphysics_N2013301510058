@@ -1,6 +1,5 @@
-﻿# via 蔡浩老师
 ﻿# 武汉大学计算物理课程
-
+﻿# via 蔡浩老师 
 ## 教材
 - **Computational Physics**, Nicholas J. Giordano & Hisao Nakanishi
 - [**How to think like a computer scientist**](http://www.greenteapress.com/thinkpython/), Allen B. Downey
