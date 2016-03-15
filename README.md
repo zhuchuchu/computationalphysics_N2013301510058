@@ -10,6 +10,7 @@
 ##第二次作业
 *  给老师的得意门生点了赞！赞赞赞！（虽然看不懂但是好厉害的样子）
 *  ding~(￣▽￣*)b
-! [十万个小肉段](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/img-7f9f9c577f855b0ceea271c30dcca00e.jpg)
+ ![十万个小肉段](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/img-7f9f9c577f855b0ceea271c30dcca00e.jpg)
+
 ##第三次作业[（戳）](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/homework03.md)
 *  不小心看到很多大神的作业orz…最后的图还是很丑但是我尽力了:)
