@@ -8,7 +8,7 @@
 ##第二次作业
 *  给老师的得意门生点了赞！(￣▽￣*)b（虽然看不懂但是好厉害的样子）
 *  ding~听说老师按作业长度论英雄 长度不够图来凑…
- ![我和我的小可爱](https://github.com/zhuchuchu/computationalphysics_N2013301510058/img_2607_recompress.jpg)
+ ![我和我的小可爱](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/img_2607_recompress.jpg)
 
 ##第一次作业
 *  大概算完成了…安装Python真的用了好久…老是安装到一半就停了…
