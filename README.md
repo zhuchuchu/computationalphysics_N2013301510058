@@ -3,12 +3,14 @@
  >朱楚楚 材料物理 2013301510058
 
 ##第四次作业
-*  四月十号 做完了[chapter1_1.1](https://www.zybuluo.com/double-C/note/339637)
-*  四月八号：认真看了一下书，有了老师的例子觉得好像挺简单的…先把程序传上来，待会儿有时间再报告嘻嘻嘻今天好开心
+*  四月十号: 做完了[chapter1_1.1](https://www.zybuluo.com/double-C/note/339637)
+*  四月八号: 认真看了一下书，有了老师的例子觉得好像挺简单的…先把程序传上来，待会儿有时间再报告嘻嘻嘻今天好开心
 
 
-##第三次作业[（戳）](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/homework03.md)
+##第三次作业
+*  [homework_03](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/homework03.md)
 *  不小心看到很多大神的作业orz…最后的图还是很丑但是我尽力了 不简单噢…
+
 
 ##第二次作业
 *  给老师的得意门生点了赞！(￣▽￣*)b（虽然看不懂但是好厉害的样子）
