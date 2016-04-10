@@ -8,7 +8,7 @@
 
 
 ##第三次作业
-*  [homework_03](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/homework03.md)
+*  [homework03](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/homework03.md)
 *  不小心看到很多大神的作业orz…最后的图还是很丑但是我尽力了 不简单噢…
 
 
