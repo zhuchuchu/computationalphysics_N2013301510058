@@ -15,3 +15,11 @@ for i in range(int(end_time / dt)):
 	t.append(dt * (i + 1))
 	print t[-1], V[-1]
 
+import numpy as np
+import matplotlib.pyplot as plt
+plt.plot(t,V,'g')
+plt.title('the velocity of a freely falling object')
+plt.xlabel('t(s)')
+plt.ylabel('V(m/s)')
+plt.show()
+savefig("homework1_1.jpg")
