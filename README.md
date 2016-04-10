@@ -1,7 +1,6 @@
 #计算物理作业 
  >computationalphysics_N2013301510058
-
-好久没有做作业…但是我真的有在很艰难的啃教程，加油噢
+ >朱楚楚 材料物理 2013301510058
 
 ##第四次作业
 *  四月十号 做完了[chapter1_1.1](https://www.zybuluo.com/double-C/note/339637)
