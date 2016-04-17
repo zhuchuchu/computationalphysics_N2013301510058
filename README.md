@@ -2,19 +2,17 @@
  >computationalphysics_N2013301510058
  >朱楚楚 材料物理 2013301510058
 
-##第五次作业
-*  四月十二、十三号: 写chapter1_1.6的程序，目测进展1/4，老是运行不出来？？？？？（日子就要大结局了好不开心啊看不见big boss和乔妹秀恩爱了嘤嘤嘤）
-*  四月十四日：写了[b=0这简单的一半](https://www.zybuluo.com/double-C/note/345158) 这门课有没有期中考？感觉很方
+##[第五次作业](https://www.zybuluo.com/double-C/note/345158) 
+*  四月十二、十三号: 写chapter1_1.6的程序，目测写了1/4，老是运行不出来？？？？？（日子就要大结局了好不开心啊看不见big boss和乔妹秀恩爱了嘤嘤嘤）
+*  四月十四日：写了b=0这简单的一半and这门课有没有期中考？感觉很方
 *  四月十五日：写另一半 不知道哪里有问题sad
 *  四月十七日：完善一下and写结论 其实那天就写得差不多了 
 
-##第四次作业
-*  四月十号: 做完了[chapter1_1.1](https://www.zybuluo.com/double-C/note/339637)
+##[第四次作业](https://www.zybuluo.com/double-C/note/339637)
 *  四月八号: 认真看了一下书，有了老师的例子觉得好像挺简单的…先把程序传上来，待会儿有时间再报告嘻嘻嘻今天好开心
+*  四月十号: 做完了chapter1_1.1
 
-
-##第三次作业
-*  [homework03](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/homework03.md)
+##[第三次作业](https://github.com/zhuchuchu/computationalphysics_N2013301510058/blob/master/homework03.md)
 *  不小心看到很多大神的作业orz…最后的图还是很丑但是我尽力了 不简单…
 
 
