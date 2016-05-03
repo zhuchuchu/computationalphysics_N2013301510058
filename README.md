@@ -2,7 +2,7 @@
  >computationalphysics_N2013301510058
  >朱楚楚 材料物理 2013301510058
  
-##[第六次作业](https://www.zybuluo.com/double-C/note/365036)持续更新中
+##[第六次作业持续更新中](https://www.zybuluo.com/double-C/note/365036)
  * 四月三十号：开始看chapter2…感觉离上次写作业过去了好久…谁让上周那么多考试T T
  * 五月三号：看完书开始写程序
 
