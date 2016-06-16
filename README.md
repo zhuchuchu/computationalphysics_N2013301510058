@@ -1,6 +1,8 @@
 #计算物理作业 
  >computationalphysics_N2013301510058
  >朱楚楚 材料物理 2013301510058
+##[第九次作业](https://www.zybuluo.com/double-C/note/410082) 
+ * 六月十六：飞速看书
  
 ##[第八次作业](https://www.zybuluo.com/double-C/note/339632) 
  * 六月十六：现在是看一天书写一天作业
