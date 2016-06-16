@@ -96,7 +96,7 @@ class CROMER16(EULER16):
     def plot_theta(self,_ax):
         _ax.plot(self.t, self.theta, '--',label=r'$\theta_0=16$')
         
-fig= plt.figure(figsize=(10,5))
+fig= plt.figure(figsize=(25,5))
 ax1 = plt.subplot()
 
 comp= CROMER1()
