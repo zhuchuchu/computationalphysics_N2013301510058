@@ -2,7 +2,9 @@
  >computationalphysics_N2013301510058
  >朱楚楚 材料物理 2013301510058
  
-##[第八次作业](更新中) 
+##[第八次作业](https://www.zybuluo.com/double-C/note/339632) 
+ * 六月十六：现在是看一天书写一天作业
+
 ##[第七次作业](https://www.zybuluo.com/double-C/note/406861)
  * 五月七号：写完了第六次作业还蛮高兴的　接着看棒球
  * 六月十三：诶哟…终于看完书了…
