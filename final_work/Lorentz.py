@@ -23,7 +23,7 @@ class Lorentz1(object):
                 self.z_sec.append(self.z[i])
                 self.x_sec.append(self.x[i])
         if len(self.z_sec)>0:
-            _ax.plot(self.x_sec,self.z_sec,'ok',markersize=4,label=r'$r=10$')
+            _ax.plot(self.x_sec,self.z_sec,'ok',markersize=4,label=r'$r=5$')
 
 class Lorentz2(object):
     def __init__(self, _x=1., _y=0., _z=0., _t=0., _dt=0.0001, _time=30.):
@@ -69,7 +69,7 @@ class Lorentz3(object):
                 self.z_sec.append(self.z[i])
                 self.x_sec.append(self.x[i])
         if len(self.z_sec)>0:
-            _ax.plot(self.x_sec,self.z_sec,'ok',markersize=4,label=r'$r=10$')
+            _ax.plot(self.x_sec,self.z_sec,'ok',markersize=4,label=r'$r=15$')
    
 class Lorentz4(object):
     def __init__(self, _x=1., _y=0., _z=0., _t=0., _dt=0.0001, _time=30.):
@@ -92,7 +92,7 @@ class Lorentz4(object):
                 self.z_sec.append(self.z[i])
                 self.x_sec.append(self.x[i])
         if len(self.z_sec)>0:
-            _ax.plot(self.x_sec,self.z_sec,'ok',markersize=4,label=r'$r=10$')
+            _ax.plot(self.x_sec,self.z_sec,'ok',markersize=4,label=r'$r=25$')
 
 fig= plt.figure()
 ax1 = plt.subplot(211)
