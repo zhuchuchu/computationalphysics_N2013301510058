@@ -2,7 +2,7 @@
  >computationalphysics_N2013301510058
  >朱楚楚 材料物理 2013301510058
  
-##[期末作业]()
+##[期末作业](https://www.zybuluo.com/double-C/note/414709)
  * 六月二十一：还好在做作业的时候就想好了论文要写啥……
  
 ##[第十二次作业](https://www.zybuluo.com/double-C/note/413612) 
