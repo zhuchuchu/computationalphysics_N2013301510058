@@ -18,7 +18,7 @@ class CROMER1(object):
             if self.theta[i+1]>math.pi:
 	       self.theta[i+1]=self.theta[i+1]-2*math.pi	
     def plot_theta1(self,_ax):
-        _ax.plot(self.t, self.theta, '--',label=r'$F_D=1.2$')       
+        _ax.plot(self.t, self.theta,'--', label=r'$F_D=1.2$')       
 
 class CROMER2(CROMER1):
     def calculate(self):
@@ -31,7 +31,7 @@ class CROMER2(CROMER1):
             if self.theta[i+1]>math.pi:
                self.theta[i+1]=self.theta[i+1]-2*math.pi
     def plot_theta2(self,_ax):
-        _ax.plot(self.t, self.theta, '--',label=r'$F_D=1.201$')
+        _ax.plot(self.t, self.theta,'--r',label=r'$F_D=1.201$')
         
 class CROMER3(CROMER1):
     def calculate(self):
@@ -44,7 +44,20 @@ class CROMER3(CROMER1):
             if self.theta[i+1]>math.pi:
                self.theta[i+1]=self.theta[i+1]-2*math.pi
     def plot_theta3(self,_ax):
-        _ax.plot(self.t, self.theta, '--',label=r'$F_D=1.21$')
+        _ax.plot(self.t, self.theta,'--r',label=r'$F_D=1.21$')
+
+class CROMER4(CROMER1):
+    def calculate(self):
+        for i in range(self.n):
+            self.t.append(self.t[-1]+self.dt)
+	    self.omg.append(self.omg[-1]+(-self.g/self.l*np.sin(self.theta[-1])-self.q[1]*self.omg[-1]+self.F_D[1]*np.sin(2./3.*self.t[-1]))*self.dt)
+            self.theta.append(self.theta[-1]+self.omg[-1]*self.dt)
+            if self.theta[i+1]<-math.pi:
+               self.theta[i+1]=self.theta[i+1]+2*math.pi
+            if self.theta[i+1]>math.pi:
+               self.theta[i+1]=self.theta[i+1]-2*math.pi
+    def plot_theta4(self,_ax):
+        _ax.plot(self.t, self.theta, label=r'$F_D=0.5$')
 
 
 fig= plt.figure(figsize=(15,7))
@@ -56,9 +69,12 @@ comp.plot_theta1(ax1)
 comp= CROMER2()
 comp.calculate()
 comp.plot_theta2(ax1)
-comp= CROMER3()
+#comp= CROMER3()
+#comp.calculate()
+#comp.plot_theta3(ax1)
+comp= CROMER4()
 comp.calculate()
-comp.plot_theta3(ax1)
+comp.plot_theta4(ax1)
 ax1.set_title(r'$\theta$ versus times',fontsize=14)
 #ax2.set_title(r'$\omega$ versus $\theta$',fontsize=14)
 ax1.set_xlabel('time(s)',fontsize=14)
